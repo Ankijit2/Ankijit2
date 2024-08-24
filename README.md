@@ -8,13 +8,9 @@ Having a good track record with full-stack development, I specialize in creating
 
 ## 🌐 Tech Stack
 
-**Frontend:** React.js, HTML5, CSS3, TailwindCSS, JavaScript (ES6+)
+**Technical Skills** React,JavaScript,TypeScript,CSS,Tailwind,Nextjs,MongoDB,Flask,Nodejs,Express,MongoDB,postgresSql,SQL
 
-**Backend:** Node.js, Express.js
-
-**Database:** MongoDB
-
-**Tools:** Git, Webpack, npm
+**Tools:** Git, Webpack, npm,pnpm,bun
 
 ## 🌟 Why Me
 
