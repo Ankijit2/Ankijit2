@@ -8,7 +8,7 @@ Having a good track record with full-stack development, I specialize in creating
 
 ## 🌐 Tech Stack
 
-**Technical Skills** React,JavaScript,TypeScript,CSS,Tailwind,Nextjs,MongoDB,Flask,Nodejs,Express,MongoDB,postgresSql,SQL
+**Technical Skills** React,JavaScript,TypeScript,CSS,Tailwind,Nextjs,MongoDB,Flask,Nodejs,Express,MongoDB,postgresSql,SQL,Docker,kubernetis,python
 
 **Tools:** Git, Webpack, npm,pnpm,bun
 
